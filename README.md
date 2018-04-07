@@ -1,1 +1,1 @@
-#Git 教程
+Creating a new branch is quick and simple.
